@@ -63,15 +63,6 @@ This project is a Conversational PDF Chatbot that allows users to upload a PDF d
 3. Once the PDF is processed, ask questions about its content using the text input field.
 4. The chatbot will provide answers based on the context extracted from the PDF.
 
-## Project Structure
-
-```plaintext
-conversational-pdf-chatbot/
-├── app.py                  # Streamlit frontend
-├── main.py                 # FastAPI backend
-├── requirements.txt        # List of dependencies
-└── README.md               # Project documentation
-```
 ## Screenshot
 
 ![Screenshot 2024-07-24 073346](https://github.com/user-attachments/assets/702b6755-ad57-42b9-90f4-1f0e2e45a43d)
