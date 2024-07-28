@@ -20,30 +20,6 @@ This project is a Conversational PDF Chatbot that allows users to upload a PDF d
 - **FAISS**: Vector search and similarity matching.
 - **dotenv**: For managing environment variables.
 
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/conversational-pdf-chatbot.git
-    cd conversational-pdf-chatbot
-    ```
-
-2. Create a virtual environment:
-    ```sh
-    python -m venv venv
-    venv\Scripts\activate
-    ```
-
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4. Create a `.env` file and add your Google API key:
-    ```
-    GOOGLE_API_KEY=your_google_api_key
-    ```
-
 ### Run the Application
 
 1. Start the FastAPI server:
